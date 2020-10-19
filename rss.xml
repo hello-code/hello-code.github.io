@@ -7,8 +7,8 @@
 
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Hugo 主题 MemE</title>
-        <link>https://example.com/</link>
+        <title>Blog</title>
+        <link>hello-code.github.io/</link>
         <description>MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</description>
         <generator>Hugo 0.68.3 https://gohugo.io/</generator>
         
@@ -23,22 +23,22 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Sun, 18 Oct 2020 21:19:13 &#43;0800</lastBuildDate>
+        <lastBuildDate>Tue, 20 Oct 2020 07:33:38 &#43;0800</lastBuildDate>
         
-            <atom:link rel="self" type="application/rss&#43;xml" href="https://example.com/rss.xml" />
+            <atom:link rel="self" type="application/rss&#43;xml" href="hello-code.github.io/rss.xml" />
         
         
             <item>
                 <title>Hello World</title>
-                <link>https://example.com/posts/hello-world/</link>
-                <guid isPermaLink="true">https://example.com/posts/hello-world/</guid>
-                <pubDate>Sun, 18 Oct 2020 21:15:31 &#43;0800</pubDate>
+                <link>hello-code.github.io/posts/hello-world/</link>
+                <guid isPermaLink="true">hello-code.github.io/posts/hello-world/</guid>
+                <pubDate>Tue, 20 Oct 2020 07:26:53 &#43;0800</pubDate>
                 
                     <author>reuixiy@gmail.com (reuixiy)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
-                    <description>&lt;p&gt;Hello World!&lt;/p&gt;
+                    <description>&lt;p&gt;Hello World&lt;/p&gt;
 </description>
                 
                 

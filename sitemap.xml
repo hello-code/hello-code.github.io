@@ -3,26 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/posts/hello-world/</loc>
-    <lastmod>2020-10-18T21:18:26+08:00</lastmod>
+    <loc>hello-code.github.io/</loc>
+    <lastmod>2020-10-20T07:32:02+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/</loc>
-    <lastmod>2020-10-18T21:18:26+08:00</lastmod>
+    <loc>hello-code.github.io/posts/hello-world/</loc>
+    <lastmod>2020-10-20T07:32:02+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/posts/</loc>
-    <lastmod>2020-10-18T21:18:26+08:00</lastmod>
+    <loc>hello-code.github.io/posts/</loc>
+    <lastmod>2020-10-20T07:32:02+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/categories/</loc>
+    <loc>hello-code.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>https://example.com/tags/</loc>
+    <loc>hello-code.github.io/tags/</loc>
   </url>
   
 </urlset>
