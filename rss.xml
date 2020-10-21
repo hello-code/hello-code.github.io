@@ -7,8 +7,8 @@
 
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Blog</title>
-        <link>hello-code.github.io/</link>
+        <title>Hugo 主题 MemE</title>
+        <link>https://example.com/</link>
         <description>MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</description>
         <generator>Hugo 0.68.3 https://gohugo.io/</generator>
         
@@ -23,65 +23,10 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Wed, 21 Oct 2020 20:40:19 &#43;0800</lastBuildDate>
+        <lastBuildDate>Wed, 21 Oct 2020 21:56:00 &#43;0800</lastBuildDate>
         
-            <atom:link rel="self" type="application/rss&#43;xml" href="hello-code.github.io/rss.xml" />
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://example.com/rss.xml" />
         
-        
-            <item>
-                <title>Hello World</title>
-                <link>hello-code.github.io/posts/hello-world/</link>
-                <guid isPermaLink="true">hello-code.github.io/posts/hello-world/</guid>
-                <pubDate>Tue, 20 Oct 2020 07:26:53 &#43;0800</pubDate>
-                
-                    <author>reuixiy@gmail.com (reuixiy)</author>
-                
-                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
-                
-                    <description>&lt;p&gt;Hello World&lt;/p&gt;
-</description>
-                
-                
-                
-                
-                
-                    
-                        
-                    
-                        
-                    
-                
-            </item>
-        
-            <item>
-                <title>Go Cross Compile</title>
-                <link>hello-code.github.io/posts/go-cross-compile/</link>
-                <guid isPermaLink="true">hello-code.github.io/posts/go-cross-compile/</guid>
-                <pubDate>Sat, 17 Oct 2020 09:12:40 &#43;0800</pubDate>
-                
-                    <author>reuixiy@gmail.com (reuixiy)</author>
-                
-                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
-                
-                    <description>&lt;h2 id=&#34;ubuntu-2004&#34;&gt;ubuntu 20.04&lt;/h2&gt;
-&lt;p&gt;&lt;code&gt;sudo apt-get install gcc-mingw-w64&lt;/code&gt;&lt;/p&gt;
-&lt;h3 id=&#34;32bit&#34;&gt;32bit&lt;/h3&gt;
-&lt;pre&gt;&lt;code&gt;env CGO_ENABLED=1 GOOS=windows GOARCH=386 CC=i686-w64-mingw32-gcc go build -o main.exe -ldflags=&amp;quot;-H windowsgui&amp;quot;
-&lt;/code&gt;&lt;/pre&gt;&lt;h3 id=&#34;64bit&#34;&gt;64bit&lt;/h3&gt;
-&lt;pre&gt;&lt;code&gt;env CGO_ENABLED=1 GOOS=windows GOARCH=amd64 CC=x86_64-w64-mingw32-gcc go build -o main.exe -ldflags=&amp;quot;-H windowsgui&amp;quot;
-&lt;/code&gt;&lt;/pre&gt;</description>
-                
-                
-                
-                
-                
-                    
-                        
-                    
-                        
-                    
-                
-            </item>
         
     </channel>
 </rss>
